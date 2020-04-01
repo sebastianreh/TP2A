@@ -1,4 +1,6 @@
 # Desafio
 
+(aun no especificado)
 
-Enviar un pull request al branch desafio1
+Creando un archivo con el numero de legajo
+Enviar un pull request al branch desafio1.
