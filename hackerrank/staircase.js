@@ -26,4 +26,4 @@ function numeralBuilder(n){
     return numeralString;
 }
 
-staircase(6);
+staircase(9);
