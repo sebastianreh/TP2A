@@ -16,7 +16,6 @@ function isBalanced(s) {
     }
     return "YES";
 }
-
 console.log(isBalanced("{[([[[]]])]}"));
 
 
